@@ -1,6 +1,7 @@
 # mycard_profile
 
 A new Flutter project.
+by purrlynx
 
 ## Getting Started
 
